@@ -10,3 +10,5 @@ setTimeout(()=>{
 
 
 console.log('Finishing app');
+
+// (1) Call stack; (2) Node APIs; (3) Callback queue; (4) Event lopp

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mosesbenjamin/Weather-App#readme",
   "dependencies": {
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "yargs": "^4.8.1"
   }
 }
